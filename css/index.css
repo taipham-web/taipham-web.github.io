@@ -132,4 +132,7 @@ table td {
 	.waifu_items{
 		flex: 50%;
 	}
+	#menu_text{
+		width: 200%;
+	}
 }
